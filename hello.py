@@ -5,3 +5,5 @@
 print "Hello world!"
 
 print "Goodbye world!"
+
+print "Super mega awesome text."
