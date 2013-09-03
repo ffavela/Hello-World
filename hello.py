@@ -4,7 +4,9 @@
 
 print "Hello world!"
 
-print "Goodbye world!"
+print "Howdy!" 
+
+print "Random text."
 
 print "Super mega awesome text."
 
